@@ -103,3 +103,5 @@ void GrafoFamiliar::DesplegarTodo()
 	cout << "Matrix Adyacente: -->" << endl;
 	this->matrizAdyacencia->desplegar();
 }
+
+

@@ -3,7 +3,7 @@
 
 #include "stdafx.h"
 #include "GrafoFamiliar.h"
-//#include "Grafos.h"
+
 
 void Menu() {
 	cout << "\n" <<"1. Agregar persona. " << endl;

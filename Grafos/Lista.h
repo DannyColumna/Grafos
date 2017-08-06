@@ -1,5 +1,5 @@
 #pragma once
-#include "Nodo.h"
+#include "Nodo.cpp"
 template <class T>
 class Lista
 {
